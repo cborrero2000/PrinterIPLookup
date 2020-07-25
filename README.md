@@ -36,4 +36,4 @@ The Reset button will refresh the text boxes with the hardcoded values.
 Additionally, I wanted to explore the inclusion of a Splash Screen which was realized thru the Magnetic Solution screen which will display for 4.5 seconds.
 <div float="left"><strong>Note:</strong> Not copyright infringement intended in the case that there is a company or product registered under these names anywhere in the world.</div>
 
-<strong>Possible Future Enhancements:</strong> Create a temporary file or registry entry and a menu interface to save the last settings in order to override the hardcoded values in case the printer gets replaced or this app is used in antoher house-network.
+<strong>Possible Future Enhancements:</strong> Create a temporary file or registry entry and a menu interface to save the last settings in order to override the hardcoded values in case the printer gets replaced or this app is used in another house-network.
