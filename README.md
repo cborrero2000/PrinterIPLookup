@@ -23,7 +23,7 @@ Still these text boxes are editable in case want to run this functionality on ot
 The Reset button will refresh the text boxes with the hardcoded values.
 
 Additionally, I wanted to explore the inclusion of a Splash Screen which was realized thru the Magnetic Solution screen which will display for 4.5 seconds.
-<div float="left"><strong>Note:</strong> Not intended any copyright infringement in case there is a registered company under that name anywhere in the world.</div>
+<div float="left"><strong>Note:</strong> Not intended any copyright infringement in case there is a company registered under that name anywhere in the world.</div>
 
 
 <br>
